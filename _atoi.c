@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * interactive - comes true if shell is interactive mode
+ * interactive - Comes true if shell is interactive mode
  * @info: position address
  * Return: 1 if interactive mode, 0 otherwise
  */
